@@ -1,2 +1,4 @@
 # ling-tasks
-Repository for linguistic task data frame creation, cleanup, and analysis.
+Basic description: Repository for linguistic task data frame creation, cleanup, and analysis.
+Tasks included: TBD
+
